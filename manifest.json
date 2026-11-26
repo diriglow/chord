@@ -1,0 +1,18 @@
+{
+  "name": "chord. — songwriting studio",
+  "short_name": "chord.",
+  "id": "./",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#191b1b",
+  "theme_color": "#191b1b",
+  "icons": [
+    {
+      "src": "./icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}
